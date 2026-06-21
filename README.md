@@ -2,4 +2,4 @@
 
 the repo is created in local system
 
-creted by Viresh K
+creted by Viresh K.
